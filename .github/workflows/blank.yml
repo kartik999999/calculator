@@ -31,4 +31,4 @@ jobs:
 
       # Runs a set of commands using the runners shell
       - name: using custom workflow
-        uses: kartik999999/custom-actions@main
+        uses: kartik999999/custom-actions
